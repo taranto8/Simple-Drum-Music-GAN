@@ -7,6 +7,7 @@ The use of 3 discriminators is based off of tuning one for general dimension red
 The data used comes from Magenta's tensorflow datasets, and is the extended midi drum files dataset, E-GMD. Available at https://magenta.tensorflow.org/datasets/e-gmd
 
 Proper citation:
+
 Lee Callender, Curtis Hawthorne, and Jesse Engel. "Improving Perceptual Quality
   of Drum Transcription with the Expanded Groove MIDI Dataset." 2020.
   arXiv:2004.00188.
